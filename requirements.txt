@@ -18,7 +18,7 @@ chardet==3.0.4
 citipy==0.0.5
 click==6.7
 clyent==1.2.2
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 Cython==0.28.4
 decorator==4.3.0
